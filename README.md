@@ -10,3 +10,5 @@
 |표현: 데이터 정제|[링크](https://github.com/Haonly/ML_study/wiki/5.-표현-:-데이터-정제)|
 |특성 교차|[링크](https://github.com/Haonly/ML_study/wiki/6.-특성-교차)|
 |정규화: 단순성|[링크](https://github.com/Haonly/ML_study/wiki/7.-정규화:-단순성)|
+|로지스틱 회귀|[링크](https://github.com/Haonly/ML_study/wiki/h.-로지스틱-회귀)|
+|신경망|[링크](https://github.com/Haonly/ML_study/wiki/k.-신경망)|
