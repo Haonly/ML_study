@@ -11,4 +11,9 @@
 |특성 교차|[링크](https://github.com/Haonly/ML_study/wiki/6.-특성-교차)|
 |정규화: 단순성|[링크](https://github.com/Haonly/ML_study/wiki/7.-정규화:-단순성)|
 |로지스틱 회귀|[링크](https://github.com/Haonly/ML_study/wiki/h.-로지스틱-회귀)|
+|분류|[링크](https://github.com/Haonly/ML_study/wiki/i.-분류)|
+|정규화: 희소성|[링크](https://github.com/Haonly/ML_study/wiki/j.-정규화:-희소성)|
 |신경망|[링크](https://github.com/Haonly/ML_study/wiki/k.-신경망)|
+|신경망 학습|[링크](https://github.com/Haonly/ML_study/wiki/l.-신경망-학습)|
+|다중 클래스 신경망|[링크](https://github.com/Haonly/ML_study/wiki/m.-다중-클래스-신경망)|
+|임베딩|[링크](https://github.com/Haonly/ML_study/wiki/n.-임베딩)|
