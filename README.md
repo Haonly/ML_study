@@ -17,3 +17,7 @@
 |신경망 학습|[링크](https://github.com/Haonly/ML_study/wiki/l.-신경망-학습)|
 |다중 클래스 신경망|[링크](https://github.com/Haonly/ML_study/wiki/m.-다중-클래스-신경망)|
 |임베딩|[링크](https://github.com/Haonly/ML_study/wiki/n.-임베딩)|
+|정적 학습과 동적 학습, 정적 추론과 동적 추론|[링크](https://github.com/Haonly/ML_study/wiki/o.-정적-학습과-동적-학습,-정적-추론과-동적-추론)
+|데이터 종속성|[링크](https://github.com/Haonly/ML_study/wiki/p.-데이터-종속성)
+|ML 엔지니어링 공정성|[링크](https://github.com/Haonly/ML_study/wiki/q.-ML-엔지니어링---공정성--(여기에-다같이-작성(하연,-창용,-재훈)))
+|실생활에서의 ML 시스템|[링크](https://github.com/Haonly/ML_study/wiki/r.-실생활에서의-ML-시스템)
